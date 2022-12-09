@@ -1,6 +1,6 @@
 # GreenTeaPress Books Exercises
 
-Exercises from the various GreenTeaPress (https://greenteapress.com/wp/) books freely available
+Exercises from the various GreenTeaPress (https://greenteapress.com/wp/) books freely available. Thanks to __Allen B. Downey__ for writing such great and informative books.
 
 ## Main books directories
 
